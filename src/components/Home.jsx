@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className='container'>
 
-      <TextForm heading="Enter The Text To analyxe" mode={mode}/>
+      <TextForm heading="Enter The Text To analyxe" />
     </div>
   )
 }
